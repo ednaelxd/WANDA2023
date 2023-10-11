@@ -1,4 +1,4 @@
-# WANDA2033
+# WANDA2023
 Nos dias 09/10/2023 à 11/10/2023, realizou o Workshop de Análise de Dados no Agreste (WANDA), na Universidade Federal de Pernambuco - Campus Agreste, 
 onde foram apresentados os temas presentes no banner a seguir:
 
